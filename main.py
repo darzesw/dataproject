@@ -159,3 +159,9 @@ try:
 
 except FileNotFoundError:
     st.error(f"지정된 위치에서 데이터를 찾을 수 없습니다. 파일명이 `{DATA_PATH}` 인지 확인해주세요.")
+
+streamlit
+pandas
+numpy
+plotly
+statsmodels
